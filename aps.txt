@@ -1,1 +1,1 @@
-dmxlc3M6Ly83M2YwNWI0YS1mN2Y5LTRlZjctYTRlZS1mZTRjOGMwZjg5Y2NAZmlubGFuZC5wb2hvdm82NTkxLndvcmtlcnMuZGV2OjgwP2VuY3J5cHRpb249bm9uZSZzZWN1cml0eT1ub25lJnR5cGU9d3MmaG9zdD1maW5sYW5kLnBvaG92bzY1OTEud29ya2Vycy5kZXYmcGF0aD0lMkYlM0ZlZCUzRDIwNDgjJUU1JThFJTlGJUU3JTk0JTlGJUU1JTlDJUIwJUU1JTlEJTgwLTgwLVdTDQo=
+vless://73f05b4a-f7f9-4ef7-a4ee-fe4c8c0f89cc@finland.pohovo6591.workers.dev:80?encryption=none&security=none&type=ws&host=finland.pohovo6591.workers.dev&path=%2F%3Fed%3D2048#%E5%8E%9F%E7%94%9F%E5%9C%B0%E5%9D%80-80-WS
